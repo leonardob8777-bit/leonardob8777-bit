@@ -1,5 +1,3 @@
-# Leonardo
-
 <p align="center">
   <img src="./assets/profile-header.svg" alt="Leonardo GitHub profile banner" />
 </p>
@@ -47,4 +45,3 @@ I like dark visual systems, simple architecture, and projects that feel useful f
 ## Contact
 
 If you want to collaborate on iOS, UI, or tooling, the website above is the easiest place to start.
-
