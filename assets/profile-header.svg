@@ -1,0 +1,62 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Leonardo GitHub Profile Banner</title>
+  <desc id="desc">Dark banner with neon accents for a GitHub profile README.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1020" />
+      <stop offset="0.55" stop-color="#10162A" />
+      <stop offset="1" stop-color="#070A12" />
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 96) rotate(45) scale(220 220)">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.35" />
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowMagenta" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 320) rotate(-35) scale(260 260)">
+      <stop offset="0" stop-color="#C084FC" stop-opacity="0.32" />
+      <stop offset="1" stop-color="#C084FC" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="stroke" x1="120" y1="280" x2="1160" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.35" />
+      <stop offset="1" stop-color="#C084FC" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="420" rx="36" fill="url(#bg)" />
+  <rect width="1280" height="420" rx="36" fill="url(#glowCyan)" />
+  <rect width="1280" height="420" rx="36" fill="url(#glowMagenta)" />
+
+  <circle cx="1002" cy="88" r="156" fill="#1C2742" fill-opacity="0.35" />
+  <circle cx="1002" cy="88" r="96" fill="#22D3EE" fill-opacity="0.08" />
+  <circle cx="1002" cy="88" r="42" fill="#C084FC" fill-opacity="0.10" />
+
+  <path d="M120 292H1160" stroke="url(#stroke)" stroke-width="2" />
+  <path d="M120 304H980" stroke="#334155" stroke-opacity="0.35" stroke-width="1" />
+
+  <text x="120" y="154" fill="#F8FAFC" font-size="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="700" letter-spacing="-1.5">
+    Leonardo
+  </text>
+  <text x="120" y="210" fill="#A5B4FC" font-size="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="500">
+    iOS builder · SwiftUI · Mobile tooling · Open-source experiments
+  </text>
+  <text x="120" y="252" fill="#94A3B8" font-size="20" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    Dark interfaces, clean architecture, and software that feels polished.
+  </text>
+
+  <g transform="translate(120 326)">
+    <rect width="210" height="42" rx="21" fill="#0F172A" stroke="#334155" stroke-opacity="0.65" />
+    <circle cx="24" cy="21" r="6" fill="#22D3EE" />
+    <text x="42" y="28" fill="#E2E8F0" font-size="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+      github.com/leonardob8777-bit
+    </text>
+  </g>
+
+  <g transform="translate(900 252)">
+    <rect x="0" y="0" width="256" height="88" rx="24" fill="#0B1220" fill-opacity="0.85" stroke="#334155" stroke-opacity="0.6" />
+    <text x="24" y="34" fill="#E2E8F0" font-size="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="600">
+      Currently focused on
+    </text>
+    <text x="24" y="60" fill="#7DD3FC" font-size="20" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+      SwiftUI + tool polish
+    </text>
+  </g>
+</svg>
